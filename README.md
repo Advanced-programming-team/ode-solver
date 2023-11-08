@@ -4,6 +4,10 @@ This is a simple ODE solver written in C++.
 ## Installation
 To use the solver simply clone the repository and build the solver executable with cmake using the provided 
 CMakeLists.txt file.
+
+## Dependencies
+This project uses the MuParser library for parsing the ODE configurations https://github.com/beltoforion/muparser.
+
 ## Usage
 First, we recommend running the following solver executable without command line arguments.
 So simply call:
