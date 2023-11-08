@@ -1,0 +1,11 @@
+{
+    "name": "default",
+    "solver": "RungeKutta",
+    "function_provider": "Custom",
+    "f": "y*y+1",
+    "df": "2*y",
+    "y0": 1,
+    "t0": 0,
+    "tEnd": 1,
+    "stepSize": 0.01
+}
