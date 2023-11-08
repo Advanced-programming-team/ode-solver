@@ -10,7 +10,7 @@ This project uses the MuParser library for parsing the ODE configurations https:
 
 ## Usage
 First, we recommend running the following solver executable without command line arguments.
-So simply call:
+So, simply call:
 `./solver`
 This will run the default case and generate 2 files: *config.json* and *results_default.csv*.
 
